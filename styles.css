@@ -16,6 +16,7 @@ html{
 }
 .enterbtn{
     background:#fff;
+    border-radius:5px;
 }
 .wrapper{
     max-width: 1200px;
